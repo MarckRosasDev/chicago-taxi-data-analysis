@@ -1,4 +1,4 @@
-# 🚕 Chicago Taxi Trips & Weather Impact Analysis
+#  Chicago Taxi Trips & Weather Impact Analysis
 
 Análisis exploratorio de datos (EDA) de viajes de taxi en Chicago utilizando SQL y Python para identificar patrones de demanda y evaluar el impacto de las condiciones climáticas en la duración de los viajes.
 
@@ -10,9 +10,9 @@ Este repositorio forma parte de mi portafolio de análisis de datos, donde prese
 
 ---
 
-# 📊 Proyecto: Análisis de viajes de taxi en Chicago
+#  Proyecto: Análisis de viajes de taxi en Chicago
 
-## 📖 Contexto del proyecto
+##  Contexto del proyecto
 
 Una empresa de viajes compartidos llamada **Zuber** desea comprender el comportamiento del mercado de taxis en Chicago.
 
@@ -24,7 +24,7 @@ El objetivo es analizar datos de viajes de taxis y condiciones climáticas para 
 
 ---
 
-# 🔎 Análisis realizado
+#  Análisis realizado
 
 Se realizaron las siguientes etapas de análisis:
 
@@ -51,7 +51,7 @@ Con **Python, Pandas, Matplotlib y Seaborn** se realizó:
 
 ---
 
-# 📈 Visualizaciones
+#  Visualizaciones
 
 ### Número de viajes por empresa
 
@@ -67,7 +67,7 @@ Este gráfico muestra los barrios con mayor número de viajes finalizados en pro
 
 ---
 
-# 📌 Conclusiones
+#  Conclusiones
 
 - **Flash Cab** es la empresa con mayor número de viajes.
 - El mercado está concentrado en pocas empresas grandes.
@@ -78,7 +78,7 @@ Este análisis permite entender patrones de movilidad urbana y la estructura del
 
 ---
 
-# 🛠 Tecnologías utilizadas
+#  Tecnologías utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -89,7 +89,7 @@ Este análisis permite entender patrones de movilidad urbana y la estructura del
 
 ---
 
-# 📂 Estructura del proyecto
+#  Estructura del proyecto
 Sprint-8-Proyecto-Final
 │
 ├── datasets
@@ -102,12 +102,12 @@ Sprint-8-Proyecto-Final
 └── README.md
 
 ---
-# 🚀 Cómo ejecutar el proyecto
+#  Cómo ejecutar el proyecto
 
 1. Clonar el repositorio
 
 
-git clone https://github.com/MarckRosasDev/Proyecto_Final_Sprint_7.git
+git clone https://github.com/MarckRosasDev/chicago-taxi-data-analysis.git
 
 
 2. Instalar dependencias
